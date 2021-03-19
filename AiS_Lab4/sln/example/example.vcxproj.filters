@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\example\Example.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\example\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DA4B75BF-CFDA-3D25-A418-6DA972EB9D06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\ГОСПОДИН\SOURCE\REPOS\AIS_LAB4\AIS_LAB4\SLN\CMAKEFILES\96E72D015395BC4456505AFEE77BADA6\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files (x86)\bin\cmake.exe" -SC:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4 -BC:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/sln --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/sln/Polynoms.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/��ᯮ���/source/repos/AiS_Lab4/AiS_Lab4/CMakeLists.txt
+  Example.cpp
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom.h(45,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom.h(49,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom.h(53,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  example.vcxproj -> C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\build\Debug\example.exe

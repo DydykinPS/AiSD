@@ -1,0 +1,5 @@
+﻿  Example.cpp
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom_lib\../Monom_lib/Monom.h(45,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom_lib\../Monom_lib/Monom.h(49,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom_lib\../Monom_lib/Monom.h(53,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  example.vcxproj -> C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\sln\example\Debug\example.exe

@@ -1,0 +1,8 @@
+C:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/sln/CMakeFiles/ALL_BUILD.dir
+C:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/sln/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/sln/List_lib/CMakeFiles/List_lib.dir
+C:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/sln/Monom_lib/CMakeFiles/Monom_lib.dir
+C:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/sln/Polynom_lib/CMakeFiles/Polynom_lib.dir
+C:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/sln/example/CMakeFiles/example.dir
+C:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/sln/gtest/CMakeFiles/gtest.dir
+C:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/sln/test/CMakeFiles/test_main.dir

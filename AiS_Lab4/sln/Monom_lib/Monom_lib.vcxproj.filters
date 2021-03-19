@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom_lib\Monom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom_lib\Monom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom_lib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C54E94CF-A033-3CDC-9BEB-E3E9F811EF28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DA4B75BF-CFDA-3D25-A418-6DA972EB9D06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

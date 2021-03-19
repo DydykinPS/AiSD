@@ -1,0 +1,10 @@
+^C:\USERS\ГОСПОДИН\SOURCE\REPOS\AIS_LAB4\AIS_LAB4\CMAKELISTS.TXT
+setlocal
+"D:\Program Files (x86)\bin\cmake.exe" -SC:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4 -BC:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/build --check-stamp-file C:/Users/Господин/source/repos/AiS_Lab4/AiS_Lab4/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,18 @@
+﻿  Example.cpp
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom.h(45,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom.h(49,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom.h(53,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom.h(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom.h(19,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom.h(37,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom.h(49,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Polynom.h
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom.h(45,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom.h(49,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Monom.h(53,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom.h(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom.h(19,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom.h(37,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Господин\source\repos\AiS_Lab4\AiS_Lab4\Polynom.h(49,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  AiS_Lab4.vcxproj -> C:\Users\Господин\source\repos\AiS_Lab4\Debug\AiS_Lab4.exe
